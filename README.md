@@ -1,0 +1,2 @@
+# gitpractice
+commands of git
